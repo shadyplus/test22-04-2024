@@ -1,0 +1,5 @@
+ 2023-11-18 11:25:59;105.99.117.235;;{"code":"invalid_arg","error":"Error ID:1A146ADC-85EC-11EE-B69B-E27523575DC8. fields: 'email' is required","result":""}
+ 2023-11-18 12:33:15;154.247.255.83;;{"code":"invalid_arg","error":"Error ID:7FF7AF22-85F5-11EE-87A3-3609655A5663. fields: 'email' is required","result":""}
+ 2023-11-24 12:31:30;105.235.130.215;216;{"code":"invalid_arg","error":"Error ID:3F0992A8-8AAC-11EE-8FFE-22EDBC1AE19A. fields: This value '216' is not a valid email address.","result":""}
+ 2024-04-22 14:57:54;105.235.128.92;hadjahmedali05@gmail.com;{"error":"Error ID:8DBA49EC-009F-11EF-95A1-FE2EB455D924. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-04-22 16:01:24;105.235.133.195;;{"code":"invalid_arg","error":"Error ID:6C98C6CC-00A8-11EF-B509-F27B79301780. fields: 'email' is required","result":""}
